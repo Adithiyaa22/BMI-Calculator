@@ -11,6 +11,14 @@ This BMI (Body Mass Index) calculator is a Python program with a graphical user 
 
 ## How to Run the Program
 1. Ensure you have Python installed on your system. If not, download and install Python from [python.org](https://www.python.org/).
-2. Clone the repository or download the `BMIO.py` file to your local machine.
+2. Clone the repository or download the `BMI.py` file to your local machine.
 3. Open a terminal or command prompt and navigate to the directory where `BMI.py` is located.
 4. Run the program by executing the following command:
+
+## Sample GUI Interface
+![BMI Calculator GUI](gui_screenshot.png)
+
+## Author
+Adithiyaa22 - adithiyaaaiml2005@gmail.com 
+
+Feel free to reach out for any questions, feedback, or collaboration opportunities!
